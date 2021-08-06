@@ -326,7 +326,7 @@ Train Loss: 2.839 | Train PPL:  17.099
 Val. Loss: 4.328 |  Val. PPL:  75.776
 ```
 
-##### Bleu score of test set : 6.25
+##### Bleu score of test set : 25.6
 
 ##### Sample prediction :
 
